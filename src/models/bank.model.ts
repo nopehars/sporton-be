@@ -1,3 +1,4 @@
+// session 8
 import mongoose, { Schema, Document } from 'mongoose';
 
 export interface IBank extends Document {
